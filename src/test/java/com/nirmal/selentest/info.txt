@@ -5,6 +5,5 @@ This is the latest update done by the QA.
 This is the latest update done by the developer.
 This is the latest update done by the programmer.
 This is also the latest update done by the programmer.
-This is yet another update done by the programmer.
 This is yet another update done by the programmer. 
 This is yet another update done by the programmer.
